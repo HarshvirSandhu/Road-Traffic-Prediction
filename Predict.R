@@ -1,0 +1,5 @@
+layout(matrix(1:4, ncol = 2))
+predict_data_1 = traffic_forecast(data_1,200)
+predict_data_2 = traffic_forecast(data_2,200)
+predict_data_3 = traffic_forecast(data_3,200)
+predict_data_4 = traffic_forecast(data_4,200)
